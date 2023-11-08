@@ -6,8 +6,5 @@ through online mode the demand for online ticket booking services has increased.
 to manage the data of the customers who book tickets. In this project we created a ticket booking <br/> 
 database that manages various customer details like their name, mobile,ticket numbers, payment id, etc.<br/>
 ER DIAGRAM and RELATIONAL MODEL were designed. Normalized the database to BCNF form i.e, upto <br/> 
-maximum extent to avoid data redundancy and reduce space wastage.<br/>  
-Team members:<br/>
-<br/>
-Rahul Bomma (Myself)<br/>
+maximum extent to avoid data redundancy and reduce space wastage.<br/> 
 
